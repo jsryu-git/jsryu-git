@@ -1,4 +1,4 @@
-# Hi, I'm Jun Sik Ryu 👋
+# Hi, I'm Jun Sik Ryu
 
 🎓 Data Science M.S. Candidate · University of San Diego\
 📊 Data Science | Machine Learning | Cloud Analytics\
