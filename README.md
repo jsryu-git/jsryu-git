@@ -18,7 +18,7 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 
 📍 Los Angeles, California, USA\
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jun-r-601a17202/)\
-📧 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ims921021@gmail.com)
+📧 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ims921021@gmail.com)\
 🏆 [![Steam](https://img.shields.io/badge/Steam-Profile-black?logo=steam)](https://steamcommunity.com/id/imssss/)
 
 ---
