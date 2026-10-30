@@ -22,44 +22,43 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 🏆 [![Steam](https://img.shields.io/badge/Steam-Profile-black?logo=steam)](https://steamcommunity.com/id/imssss/)
 
 ---
+## ⭐ Featured Data Science Projects
 
-## 💼 Experience
+### 🏠 [U.S. Housing Price Prediction](https://github.com/jsryu-git/ADS508_Final)
+**Machine learning | Python | AWS SageMaker | Athena | S3**
 
-### 🎮 Game Publisher | Com2uS USA
-- Managed live operations and publishing strategy for major mobile titles including Perfect Inning, Perfect Inning Ultimate, MLB 9 Innings, and MLB RIVALS
-- Successfully launched Perfect Inning Ultimate and MLB RIVALS from the ground up
-- Analyzed player behavior and in game data to drive engagement, retention, and monetization strategies
-- Collaborated across teams including development, marketing, and analytics to optimize game performance
-- Worked closely with MLB licensing requirements, ensuring games aligned with official branding, data, and league standards
+- **Problem:** Understand housing-market factors and build models for predicting home values.
+- **Approach:** Worked with Zillow housing-market datasets, performed data preparation and feature engineering, and developed a cloud-based modeling workflow.
+- **Value:** Explores how predictive analytics can support better-informed real estate analysis.
+- **Explore:** [Repository and project documentation](https://github.com/jsryu-git/ADS508_Final) · [Presentation video](https://youtu.be/4Kgh05TwN6E)
 
-### 🪖 U.S. Army Health Care Specialist (68W Medic)
-- Provided medical care and emergency response in high pressure settings
-- Developed discipline, attention to detail, and critical decision making
-- Applied structured thinking in uncertain and time sensitive situations
+### 🩺 [Diabetes Risk Classification](https://github.com/jsryu-git/ADS503_Team5)
+**Predictive modeling | R | Classification | Model evaluation**
 
-### 🍽️ Restaurant Server | Customer Service
-- Delivered high quality customer service in fast paced environments
-- Strengthened communication and problem solving skills under pressure
-- Translated customer needs into actionable outcomes
-  
+- **Problem:** Identify patterns in demographic, behavioral, and health indicators associated with diabetes status.
+- **Approach:** Compared logistic regression, elastic net, random forest, and gradient boosting using public health-indicator data.
+- **Value:** Demonstrates model comparison, interpretability, and the potential of risk-screening research. **Not a clinical diagnostic tool.**
+- **Explore:** [Repository, report, and presentations](https://github.com/jsryu-git/ADS503_Team5)
+
+### 📉 [Telecom Customer Churn Prediction](https://github.com/jsryu-git/ADS505_Group4)
+**Python | scikit-learn | Logistic regression | Random forest | XGBoost**
+
+- **Problem:** Identify customers at risk of leaving a telecom service.
+- **Approach:** Compared classification models using stratified cross-validation, evaluated a holdout set, and explored a recall-oriented decision threshold.
+- **Value:** Connects predictive modeling with proactive customer-retention decisions.
+- **Explore:** [Repository](https://github.com/jsryu-git/ADS505_Group4)
+
+> **Project notes:** These are academic team projects. Each linked repository documents the broader team work; my individual contributions can be discussed during interviews. Method details and results are available in the linked project materials.
+
 ---
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-### 📚 Libraries & Frameworks
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?logo=r&logoColor=white)
-![caret](https://img.shields.io/badge/caret-R%20ML-2C7FB8)
-![tidymodels](https://img.shields.io/badge/tidymodels-R%20ML-67A9CF)
+| Area | Tools and methods |
+| --- | --- |
+| **Programming & data** | Python, R, SQL, pandas, NumPy |
+| **Machine learning** | scikit-learn, classification, regression, feature engineering, model evaluation |
+| **Visualization & reporting** | Matplotlib, ggplot2, Jupyter, Quarto |
+| **Cloud & workflow** | AWS SageMaker, Amazon S3, Amazon Athena, Git, GitHub |
 
 ### ☁️ Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -71,25 +70,6 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 
 ---
 
-## 📂 Featured Projects
-
-### 🏠 U.S. Housing Price Prediction 
-
-[🔗 View Project](https://github.com/jsryu-git/ADS508_Final)
-
-- Built machine learning models using Zillow data
-- Implemented end to end pipeline in AWS SageMaker
-- Focused on feature engineering and model evaluation
-
-
-### 📦 E-Commerce Data Pipeline for Order and Delivery Insights
-
-- Designed and implemented a data pipeline for order and delivery analytics
-- Processed and analyzed e-commerce data to generate actionable insights
-- Utilized cloud-based workflows and data engineering techniques
-
----
-
 ## 🎯 Current Focus
 
 - Machine learning and predictive modeling
@@ -98,23 +78,25 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 - Model evaluation and interpretation
 
 ---
+## 💼 Professional Experience
 
-## 📈 GitHub Stats
+### 🎮 Game Publishing | Com2uS USA
+- Support publishing and live operations for MLB-licensed mobile games, including **MLB 9 Innings** , **MLB RIVALS** , **MLB PERFECT INNING**.
+- Monitor player feedback and performance indicators to inform operational and publishing decisions.
+- Coordinate across development, marketing, and publishing teams on launches, content, and ongoing game operations.
+- Work with MLB licensing and approval requirements to maintain brand and content accuracy.
 
-![JunSik Ryu github stats](https://github-readme-stats.vercel.app/api?username=jsryu-git&show_icons=true&theme=default)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsryu-git&layout=compact&theme=default)](https://github.com/jsryu-git)
+### 🦅 U.S. Army Healthcare Specialist (Medic, 68W)
+- Provided medical support and emergency response in time-sensitive environments.
+- Developed structured decision-making, teamwork, and communication skills under pressure.
 
----
+## 🎯 What I'm Working Toward
 
-## ⚡ Quick Version
+I'm looking to apply my data science skills to real-world problems, especially in **gaming, product analytics, and customer behavior**. I'm interested in roles where machine learning, analytics, and clear communication help teams make better decisions.
 
-```md
-Hi, I'm Jun Sik Ryu 👋
+## 🤝 Let's Connect
 
-Data Science graduate student and mobile game publishing professional.
+I'm happy to connect about data science, game analytics, machine learning projects, and opportunities to collaborate.
 
-Skills: Python, R, SQL, AWS, Machine Learning
-
-Focused on building real world data science solutions.
-```
+[LinkedIn](https://www.linkedin.com/in/jun-r-601a17202/) · [Email](mailto:ims921021@gmail.com) · [GitHub Projects](https://github.com/jsryu-git?tab=repositories)
 
